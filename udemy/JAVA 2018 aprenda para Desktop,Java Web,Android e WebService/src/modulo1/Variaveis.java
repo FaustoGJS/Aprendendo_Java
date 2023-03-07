@@ -1,13 +1,6 @@
 package variaveis;
 
 public class Variaveis {
-
-    public static void main(String[] args) {
-        
-        //tipos de variaveis primitivos 
-        int num1 =1234;
-        short num2 =5678;
-        byte num3= 123;
         long num4= 123456789;
         
         //converter inteiro por inteiro
@@ -29,7 +22,7 @@ public class Variaveis {
         boolean verdadeiro = true;
         boolean falso = false;
                 
-        //tipo de variavel não primitivo  - são objetos
+        //tipo de variavel nï¿½o primitivo  - sï¿½o objetos
         String frase = "Curso Java";
         Float num7= 4.57f;
         Double num8= 4.52;
