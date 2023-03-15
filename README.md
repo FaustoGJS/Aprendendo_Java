@@ -4,6 +4,7 @@
 <br><strong>Udemy</strong>
 <li>JAVA 2018 aprenda para Desktop, Java Web, Android e WebService - com o Professor Fabiano Schincariol</li>
 <li>Aprenda JAVA em 7 dias + Projetos Reais 2023 - com o Professor Andre Iacono</li>
+<li>Java para iniciantes - com o Professor Fabiano Góes</li>
 </ul>
 
  
