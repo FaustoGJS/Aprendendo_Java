@@ -1,6 +1,6 @@
-package Enum1;
+package enum1;
 
-public class exemploEnum {
+public class ExemploEnum {
 	
 	public enum DIA_SEMANA {
 		SEGUNDA,
