@@ -76,7 +76,16 @@ public class Media {
 		
 		String path = "aluno-"+matricula+".txt";
 		Writer arquivo = new PrintWriter(path);
-		arquivo.write("Aluno: "+matricula+"\n 1° Nota:"+n1+"\n 2° Nota:"+n2+"\n 3° Nota:"+n3+"\n 4° Nota:"+n4+"\n Media: "+notaMedia+"\n Status: "+ status);
+		arquivo.write(" Aluno: "+matricula+"\n");
+		arquivo.write("_________________\n");
+		arquivo.write(" 1° Nota: "+n1+"\n");
+		arquivo.write(" 2° Nota: "+n2+"\n");
+		arquivo.write(" 3° Nota: "+n3+"\n");
+		arquivo.write(" 4° Nota: "+n4+"\n");
+		arquivo.write("_________________\n");
+		arquivo.write(" Media: "+notaMedia+"\n");
+		arquivo.write(" Status: "+status);
+		
 		arquivo.flush();
 		arquivo.close();
 	}
